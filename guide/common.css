@@ -10,3 +10,10 @@ small {font-size: 8pt; line-height: 1.2em;}
 .info td {border: 1px solid darkgreen;}
 .info td.h {background: green; color: white; white-space: nowrap;}
 .title {color: indigo; font-weight: bold;}
+h2 {font-size: 13pt; color: darkgreen; border-left: 6px solid green; padding-left: 6px; margin-top: 1.6em;}
+h3 {font-size: 11pt; color: indigo; margin-top: 1.2em;}
+.article {max-width: 760px; line-height: 1.6em;}
+.article li {margin: 2px 0;}
+.note {background: #fff8dc; border: 1px solid #e0c060; padding: 6px 8px; margin: 8px 0;}
+.point {background: #f0fff0; border: 1px solid #66aa66; padding: 6px 8px; margin: 8px 0;}
+.crumb {font-size: 9pt; color: #666;}
