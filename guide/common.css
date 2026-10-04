@@ -1,0 +1,12 @@
+body {font-size: 10pt; line-height: 1.1em; -webkit-text-size-adjust: 100%; text-size-adjust: 100%;
+  font-family: "ＭＳ Ｐゴシック", "MS PGothic", sans-serif;}
+table {font-size: 10pt; line-height: 1.2em; font-family: inherit;}
+table td {padding: 2px 5px;}
+big {font-size: 14pt; line-height: 1.2em;}
+small {font-size: 8pt; line-height: 1.2em;}
+.red {color: red;}
+.ad {border: 1px dashed #999; color: #999; display: flex; align-items: center; justify-content: center;}
+.info {border-collapse: collapse; background: floralwhite;}
+.info td {border: 1px solid darkgreen;}
+.info td.h {background: green; color: white; white-space: nowrap;}
+.title {color: indigo; font-weight: bold;}
